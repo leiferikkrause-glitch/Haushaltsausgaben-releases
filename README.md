@@ -26,7 +26,10 @@ verlässt das Haus.
 - **Änderungsprotokoll:** Jede Änderung wird mit Gerät, Datum und Uhrzeit festgehalten. Man
   sieht also immer, wer was wann eingetragen, geändert oder gelöscht hat.
 - **Beide Handys bleiben synchron:** beim Start, nach jedem Eintrag und stündlich im
-  Hintergrund, solange ihr im heimischen WLAN seid.
+  Hintergrund, solange ihr im heimischen WLAN seid. Bringt der Abgleich im Hintergrund
+  etwas vom anderen Handy mit, zeigt Android eine kurze Meldung, ohne Beträge und Namen.
+- **Fixkosten** wie Miete, Strom oder ein gemeinsamer Kredit auf einer eigenen Seite:
+  wer zahlt, wer was trägt, dauerhaft oder bis zu einem Monat.
 - **Eigene Namen und Farben:** Die beiden Konten heißen ab Werk „Name 1" (rosa) und
   „Name 2" (blau) und sind frei änderbar. Die Namen gelten für beide Handys.
 - **Paar oder WG:** In den Einstellungen unter *Konten und Aufteilung* stellst du auf
