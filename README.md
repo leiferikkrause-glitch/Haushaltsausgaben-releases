@@ -17,7 +17,8 @@ verlässt das Haus.
 - **Halbe-halbe oder ganz:** Normalerweise wird geteilt. Ohne Haken zahlt der andere den
   vollen Betrag, praktisch, wenn man jemandem etwas mitbringt.
 - **Der offene Betrag, groß und aus deiner Sicht:** Grün heißt, du bekommst Geld. Rot heißt,
-  du schuldest. Antippen kopiert den Betrag für die Überweisung.
+  du schuldest. Antippen kopiert den Betrag für die Überweisung. Mit dem Auge daneben
+  lässt er sich ausblenden.
 - **Zeitraum wählen:** dieser Monat, ein einzelner vergangener Monat oder alles zusammen.
   Offene Beträge aus Vormonaten werden mitgenommen.
 - **Auf null setzen,** wenn ihr euch ausgeglichen habt. Alle Einträge bleiben erhalten.
@@ -29,7 +30,8 @@ verlässt das Haus.
   Hintergrund, solange ihr im heimischen WLAN seid. Bringt der Abgleich im Hintergrund
   etwas vom anderen Handy mit, zeigt Android eine kurze Meldung, ohne Beträge und Namen.
 - **Fixkosten** wie Miete, Strom oder ein gemeinsamer Kredit auf einer eigenen Seite:
-  wer zahlt, wer was trägt, dauerhaft oder bis zu einem Monat.
+  wer zahlt, wer was trägt, im Monat oder im Jahr angegeben, dauerhaft oder bis zu
+  einem Monat.
 - **Eigene Namen und Farben:** Die beiden Konten heißen ab Werk „Name 1" (rosa) und
   „Name 2" (blau) und sind frei änderbar. Die Namen gelten für beide Handys.
 - **Paar oder WG:** In den Einstellungen unter *Konten und Aufteilung* stellst du auf
