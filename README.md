@@ -19,7 +19,8 @@ verlässt das Haus.
 - **Der offene Betrag, groß und aus deiner Sicht:** Grün heißt, du bekommst Geld. Rot heißt,
   du schuldest. Antippen kopiert den Betrag für die Überweisung. Mit dem Auge daneben
   lässt er sich ausblenden.
-- **Zeitraum wählen:** dieser Monat, ein einzelner vergangener Monat oder alles zusammen.
+- **Zeitraum wählen:** alles zusammen, wie beim Öffnen, dieser Monat oder ein einzelner
+  vergangener Monat.
   Offene Beträge aus Vormonaten werden mitgenommen.
 - **Auf null setzen,** wenn ihr euch ausgeglichen habt. Alle Einträge bleiben erhalten.
 - **Excel-Tabelle pro Monat**, automatisch auf den Netzwerkspeicher geschrieben. Zum
