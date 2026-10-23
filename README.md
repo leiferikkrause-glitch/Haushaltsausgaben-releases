@@ -33,6 +33,10 @@ verlässt das Haus.
 - **Fixkosten** wie Miete, Strom oder ein gemeinsamer Kredit auf einer eigenen Seite:
   wer zahlt, wer was trägt, im Monat oder im Jahr angegeben, dauerhaft oder bis zu
   einem Monat.
+- **Todos** auf einer eigenen Seite links von den Ausgaben: gemeinsam oder einer Person
+  zugewiesen, mit oder ohne Termin, zum Abhaken. Oben „Eigene", „Gemeinsame" oder
+  „Alle". Wird dir etwas zugewiesen oder ist etwas fällig, meldet sich das Handy,
+  morgens um acht.
 - **Eigene Namen und Farben:** Die beiden Konten heißen ab Werk „Name 1" (rosa) und
   „Name 2" (blau) und sind frei änderbar. Die Namen gelten für beide Handys.
 - **Paar oder WG:** In den Einstellungen unter *Konten und Aufteilung* stellst du auf
